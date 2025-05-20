@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Kayquedeassisbergstron
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Kayque de assis bergstron
 
-<!---
-Kayquedeassisbergstron/Kayquedeassisbergstron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-ghost
+Eu sou um estudante do ensino médio,tenho uma facilidade para praticar esporte
+
+---
+
+
+#
+<!--
+<details>
+<summary><h3> Kayque ´ Coding Journey<h3>/summary>
+   em desenvolvimento
+   --->
