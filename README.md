@@ -1,9 +1,10 @@
 # Kayque de assis bergstron
+**`estudante`**
 
-Eu sou um estudante do ensino médio,tenho uma facilidade para praticar esporte
+Eu sou um estudante do ensino médio,  tenho uma facilidade para praticar esporte
+
 
 ---
-
 
 #
 <!--
